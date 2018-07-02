@@ -30,9 +30,6 @@ export default class app extends Component<Props> {
         <Text style={styles.instructions}>
           To get started, edit App.js
         </Text>
-        {/* <Text style={styles.instructions}>
-          {instructions}
-        </Text> */}
       </View>
     );
   }
